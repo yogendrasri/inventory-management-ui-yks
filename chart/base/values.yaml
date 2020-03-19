@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 global: {}
 
-apiHost: "inventory-management-bff:80"
+apiHost: "inventory-updated-management-bff-yks:80"
 appidBinding: ""
 
 replicaCount: 1
